@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UIAddon>
+	<Name>PasiSellGray</Name>
+	<AutoStart>true</AutoStart>
+	<ScriptFileRefs>
+		<Item href="NpcableStuff.lua"/>
+		<Item href="Main.luac"/>
+	</ScriptFileRefs>
+	<localizedNameFileRef href="name.txt"/>
+	<localizedDescFileRef href="desc.txt"/>
+<addon_name>PasiSellGray</addon_name><addon_date>1596288681</addon_date><addon_link>https://alloder.pro/files/file/646-pasisellgray/?do=download&amp;r=24252&amp;confirm=1&amp;t=1&amp;csrfKey=</addon_link></UIAddon>
